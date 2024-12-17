@@ -1,0 +1,1 @@
+# HCP-fMRI-Data-Preprocessing-and-Time-Series-Extraction
